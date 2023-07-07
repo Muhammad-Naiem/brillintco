@@ -970,7 +970,7 @@
         tl4.to(smiley, {
             scrollTrigger: {
                 trigger: ".we-believe-wrap",
-                markers: true,
+                
                 start: "-10%",
                 end: "25%",
                 scrub: true,
@@ -985,7 +985,7 @@
         tl4.to(smiley, {
             scrollTrigger: {
                 trigger: ".we-believe-wrap",
-                markers: true,
+                
                 start: "25%",
                 end: "45%",
                 scrub: true,
@@ -1001,7 +1001,7 @@
         tl4.to(smiley, {
             scrollTrigger: {
                 trigger: ".we-believe-wrap",
-                markers: true,
+                
                 start: "45%",
                 end: "75%",
                 scrub: true,
@@ -1017,7 +1017,7 @@
         tl4.to(smiley.find('.img-1'), {
             scrollTrigger: {
                 trigger: ".we-believe-wrap",
-                markers: true,
+                
                 start: "75%",
                 end: "80%",
                 scrub: true,
@@ -1030,7 +1030,7 @@
         tl4.to(smiley.find('.img-2'), {
             scrollTrigger: {
                 trigger: ".we-believe-wrap",
-                markers: true,
+                
                 start: "85%",
                 end: "95%",
                 scrub: true,
